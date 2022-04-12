@@ -10,10 +10,10 @@
 :root {
   /* Color pallette */
   --color-green: #2CFFBA;
-  --color-button-hover: #00a06b;
-  --color-dark-green: #0d2e17;
+  --color-button-hover: #04885c;
+  --color-dark-green: #0e3119;
   --color-white: #F9F9F9;
-  --color-light-blue: #6ee39f;
+  --color-light-blue: #5eee9a;
 
   /* Border radius */
   --border-rounded-md: 8px;
